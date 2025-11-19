@@ -1,6 +1,6 @@
 # PRAO of Max
 
-- When: Wednesday November 12th 2025 9:00-16:00 (see [schedule](schedule.md))
+- When: Friday November 21st 2025 9:00-16:00 (see [schedule](schedule.md))
 - What to bring: a laptop, (optional) food (there are microwaves)
 - Where in Uppsala: Biomedical Center, Husargatan:
   see [location](location.md) how to get there
