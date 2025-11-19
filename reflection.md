@@ -10,7 +10,6 @@ By forcing oneself to think of this, one can actually learn from the past.
 ## What did you do?
 
 
-
 ## What did you do well?
 
 
