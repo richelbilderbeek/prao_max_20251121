@@ -9,3 +9,9 @@ Make it possible that the Zenity website of
 gets deployed upon a commit.
 Document how to make this work in such a way anyone can do it.
 
+### Other projects
+
+- Reading, hard, programming: Metadata verification
+- Data handling, grep, easy: Collect YouTube videos
+- Others
+
